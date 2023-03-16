@@ -11,6 +11,7 @@ class jenishewan {
 }
 
 var kucingjeki = new jenishewan ('kucing dapur, 4 ,500000, putih hitam')
+
 console.log(kucingjeki.jeniskucing);
 console.log(kucingjeki.kaki);
 console.log(kucingjeki.harga);
